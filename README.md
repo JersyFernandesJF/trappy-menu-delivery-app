@@ -1,15 +1,15 @@
 # trappy-menu-delivery-app
 
 <center>
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 30 04" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/a247528e-a6c3-43f4-ba8c-892c8cf9561c">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 30 09" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/caaa3ae3-8c2c-4891-8e0c-563db17b0b27">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 30 31" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/8b541baf-0bec-48e5-a620-716042013488">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 30 40" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/1fb87794-d91e-47c6-9c60-323a40d8a710">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 29 49" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/c94f0519-17c4-4edd-a074-9473a60d9c62">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 30 25" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/e46e0a4e-37b8-43f9-919b-feb265cd05c7">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 28 31" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/6323c5de-0a4b-4b08-800e-f94b328b0951">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 30 18" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/c1464959-7f1e-490d-bd84-c4911e437894">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 29 59" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/4461a72f-b2ec-4e9b-b40f-8d99c669fde7">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 29 40" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/9e6c17f0-0be9-434c-b0a6-ee9a03490b55">
-<img width="200" alt="Captura de ecrã 2024-02-28, às 14 30 46" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/c0aadb3b-5c0e-4051-ac4c-8d6b39968133">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 28 31" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/ff3a90b5-9901-4d2a-a920-d4111b4e8997">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 29 49" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/cec080f9-a5a1-4219-8f8a-f0bdcdd90cd4">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 29 40" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/2d3f495a-fbab-45e7-b4df-6cf0ccf3dff4">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 29 59" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/2fb66d73-e4d5-488c-b5ff-b40b7c5c9e2c">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 30 04" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/ddc2997b-a1d0-423b-94dc-ae9b317c595c">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 30 09" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/6f8f1098-4cb7-4ae7-b7b8-7cbb3f0d65b6">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 30 04" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/c2b4f0e3-a3e2-4cdb-8d1b-27cf0e7cbec7">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 30 18" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/cd449653-ba20-43db-807c-156784cfb7bb">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 30 46" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/7842ed1e-1a05-4099-9198-7a5a7894f463">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 30 31" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/d2351eff-9d46-4003-91f1-a5270744ca1c">
+<img width="476" alt="Captura de ecrã 2024-02-28, às 14 30 25" src="https://github.com/JersyFernandesJF/field_finder_app/assets/102835855/739a3888-b00d-44c7-a402-7988d6c064d4">
 </center>
